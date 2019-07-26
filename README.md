@@ -18,3 +18,6 @@ At the processing toolbox panel, click on the Sciprt button --> Add Script to To
 2. specify centre 'latitude and longitude of centre of your hemisphere' as your orthographic projection origin
 3. you may need to specify 'Number of segments for approximating the hemisphere. Higher number can get finer results but require longer processing time.
 4. select your output directory and click run
+
+## Changelog
+0.1 - first version
