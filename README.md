@@ -2,7 +2,7 @@
 A QGIS3 Script tool preparing data for custom orthographic projections. </br>
 The script have been developed based on an algorithm from <a href = 'https://github.com/jdugge/ClipToHemisphere'>Juernjakob Dugge (2016)</a>.
 
-In QGIS, some features may not not be drawn properly on <strong>orthographic projections</strong>. For example, the picture below shows some misrepresentation on the west of the globe. </br>
+In QGIS, some features may not be drawn properly on <strong>orthographic projections</strong>. For example, the picture below shows some misrepresentation on the west of the globe. </br>
 ![misrepresentation](misrepresentation.PNG)</br>
 The misrepresentation on orthographic projections might be fixed by two appoaches: disabling the QGIS automatic symplification and cliping the layer to hemishere, where the centre is at the origin of the orthographic projection. The following picture shows the layer cliped by the tool projected on an othographic projection. </br>
 ![cliped layer](theToolResult.PNG)
