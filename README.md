@@ -11,7 +11,7 @@ The misrepresentation on orthographic projections might be fixed by two appoache
 This script has been tested on QGIS 3.4 only, however; this would probably work with QGIS 3.X
 
 ## Installation
-At the processing toolbox panel, click on the Sciprt button --> Add Script to Toolbox.... Then browse to the ClipToHemisphereAlgorithm.py and add the script.
+At the processing toolbox panel, click on the Script button --> Add Script to Toolbox.... Then browse to the ClipToHemisphereAlgorithm.py and add the script.
 
 ## Usage
 1. select your vector layer as your 'Input'.
