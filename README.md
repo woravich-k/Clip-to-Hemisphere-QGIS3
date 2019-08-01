@@ -4,7 +4,7 @@ The script have been developed based on an algorithm from <a href = 'https://git
 
 In QGIS, some features may not be drawn properly on <strong>orthographic projections</strong>. For example, the picture below shows some misrepresentation on the west of the globe. </br>
 ![misrepresentation](misrepresentation.PNG)</br>
-The misrepresentation on orthographic projections might be fixed by two appoaches: disabling the QGIS automatic symplification and cliping the layer to hemishere, where the centre is at the origin of the orthographic projection. The following picture shows the layer cliped by the tool projected on an othographic projection. </br>
+The misrepresentation on orthographic projections might be fixed by two approaches: disabling the QGIS automatic simplification and clipping the layer to hemisphere, where the centre is at the origin of the orthographic projection. The following picture shows the layer clipped by the tool projected on an orthographic projection. </br>
 ![cliped layer](theToolResult.PNG)
 
 ## Requirements
